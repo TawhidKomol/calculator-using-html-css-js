@@ -1,6 +1,9 @@
 # Calculator App Using JavaScript
 
 This Calculator web app is made using Html CSS and JavaScript with Dark and light mode.
+## Live Project Demo:
+
+https://tawhidkomol.github.io/calculator-using-html-css-js/
 
 ## Project Screenshots
 
